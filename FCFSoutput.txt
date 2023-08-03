@@ -1,0 +1,4 @@
+Average turn-around time : 14.25
+Average waiting time : 8.75
+Gantt_chart:
+P1  P2  P3  P4  
