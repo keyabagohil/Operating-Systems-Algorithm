@@ -1,6 +1,6 @@
 # Operating-Systems-Algorithm
 Implemented all the algorithms
->First Come First Sserve
+>First Come First Serve
 >Priority
 >Round Robin
 >Shortest Job First
